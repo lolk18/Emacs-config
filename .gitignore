@@ -1,0 +1,7 @@
+init.el
+/var/
+/server/
+/projectile-bookmarks.eld
+/evil.el
+/elpa/
+/Emacs.html
